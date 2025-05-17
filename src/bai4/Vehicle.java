@@ -5,11 +5,13 @@ public abstract class Vehicle {
     abstract void abstractsion_move();
 
     void mive(){
-        System.out.println("New car buy is the Garage");
+        System.out.println("Car is now in the Garage");
 
     }  
     
     void washing(){
         System.out.println("Washing car");
     }
+
+   
 }
