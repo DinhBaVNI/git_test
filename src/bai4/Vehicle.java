@@ -14,6 +14,6 @@ public abstract class Vehicle {
     }   
     
     void washing(){
-        System.out.println("Washing motobycle");
+        System.out.println("Washing motorcycle");
     }
 }
