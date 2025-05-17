@@ -13,5 +13,5 @@ public abstract class Vehicle {
         System.out.println("Washing car");
     }
 
-   
+    
 }
